@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeventReader", "XeventReader\XeventReader.csproj", "{59716D0B-D085-4DE8-B554-42DA4760A301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59716D0B-D085-4DE8-B554-42DA4760A301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59716D0B-D085-4DE8-B554-42DA4760A301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59716D0B-D085-4DE8-B554-42DA4760A301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59716D0B-D085-4DE8-B554-42DA4760A301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B9F8FC-FA11-4666-93DF-A439D576E7CC}
+	EndGlobalSection
+EndGlobal
